@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @hapishenjingxuejia
-- you should
-- jijijijijijijijijijijijijijijijijiijijijijijijijijijijijijijijijijijijijijininininininininininininininininininininininininininininini
-- taitaitaitaitaitaitaitaitaitaitaitaitaitaitaitaitaimeimeimeimeimeimiemeimeimeimeimeimeimeimeimeimeimeimeimeimeimeimeimeimeimeimeimeimei
-- emoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemoemo
 
 <!---
 hapishenjingxuejia/hapishenjingxuejia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
